@@ -1,9 +1,70 @@
-<h1 align="center">Hi 👋, I'm Kanagaraj Reddy</h1>
+# Welcome to [Your GitHub Username]'s Profile! 👋
 
+## About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+👋 Hello! I'm Kanagaraj Ramasamy Reddy, a passionate Full Stack Developer based in Mumbai, India. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🚀 My Skills
+
+- **Programming Languages:** Java
+- **Web Development:** HTML5, CSS3, JavaScript, React.js
+- **DataBase:** MySQL, Mongo DB & Firebase
+- **Other Skills/Tools:** VSCode, Linux Terminal, MySQL Workbench, Figma, Android Studio & Eclipse
+
+## Work Experience
+
+### Brackets Infinity | Software Developer Intern
+
+- **Jan 2023 - July 2023**
+- **E-Commerce Website | Mongo DB, Express.js, React.js & Node.js**
+  - Implemented real-time product updates and cart functionality using JavaScript, enhancing website interactivity.
+  - Enhanced page load speed by 30% and user retention by 25% through dynamic front-end solutions with React.
+  - Optimized MongoDB for efficient database management, resulting in a 35% enhancement in performance during high traffic.
+
+## Projects
+
+### Interplanetary File System
+
+- **Mongo DB, Express.js, React.js & Node.js**
+- Implemented secure user authentication using a password-less system, reducing login-related user issues by 20%.
+- Connected to IPFS using Infura's API for robust network connectivity and seamless file storage.
+
+### Peer to Peer Video Chat Web App
+
+- **JavaScript, HTML5, CSS3 & Firebase**
+- Configured ICE server settings for reliable connectivity and smooth peer-to-peer communication.
+- Implemented Firebase for relayed information exchange, enabling secure and efficient data exchange.
+
+## Education
+
+- **MCA (Master of Computer Application)**  
+  Thakur Institute of Management Studies Career Development & Research | Mumbai University  
+  2021 – 2023
+
+- **BCA (Bachelor of Computer Application)**  
+  Tilak Maharashtra Vidyapeeth University  
+  2017 – 2020
+
+## Certificates
+
+- Database Management System
+- Design and analysis of algorithms
+
+## 🌐 Connect with Me
+
+- **LinkedIn:** linkedin.com/in/kanagarajreddy
+- **Email:** Kanak.reddy24@gmail.com
+
+Let's connect and share our experiences!
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true&hide=contribs)
+
+## 📫 How to reach me
+
+You can reach me via email at Kanak.reddy24@gmail.com.
+
+Feel free to open an issue or submit a pull request in any of my repositories. I'm always open to collaboration and feedback!
+
+Thanks for visiting! 🚀
