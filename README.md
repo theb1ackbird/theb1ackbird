@@ -57,10 +57,6 @@
 
 Let's connect and share our experiences!
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&count_private=true&hide=contribs)
-
 ## 📫 How to reach me
 
 You can reach me via email at Kanak.reddy24@gmail.com.
