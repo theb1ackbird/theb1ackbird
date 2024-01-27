@@ -1,4 +1,4 @@
-# Welcome to [Your GitHub Username]'s Profile! 👋
+# Welcome to My Profile! 👋
 
 ## About Me
 
